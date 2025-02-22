@@ -3,7 +3,8 @@
         "name": "Piano",
         "type": "Piano",
         "volume": "5",
-        "IsElectric": "false"
+        "IsElectric": "false", 
+        "_comment": "this comment won't be accessed, electric pianos and acoustic pianos sound the same, so I didn't worry about listing different kinds here"
     },
 
     {
