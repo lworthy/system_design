@@ -1,1 +1,1 @@
-# system_design
+Our project seeks to create an app that will allow users to learn not only music theory, but also how to play music on the piano, guitar and violin. We want the app to track the user's progress through their lessons and what achievements, or badges, they have earned. The app will also give the user study tools such as flashcards which they are free to edit.
