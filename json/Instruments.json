@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Piano",
+        "type": "Piano",
+        "volume": "5",
+        "IsElectric": "false"
+    },
+
+    {
+        "name": "Electric Guitar",
+        "type": "Guitar",
+        "volume": 5,
+        "IsElectric": "true"
+    },
+
+    {
+        "name": "Acoustic Guitar",
+        "type": "Guitar",
+        "volume": 5,
+        "IsElectric": "false"
+    },
+
+    {
+        "name": "Violin",
+        "type": "Violin",
+        "volume": 5,
+        "IsElectric": "false"
+    },
+
+    {
+        "name": "Electric Violin",
+        "type": "Guitar",
+        "volume": 5,
+        "IsElectric": "true"
+    }
+]
