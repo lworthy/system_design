@@ -1,0 +1,35 @@
+{
+    "quizzes": [
+      {
+        "quizID": 1,
+        "lessonID": 1,
+        "questions": [
+          {
+            "questionID": 1,
+            "question": "What is the note on the first space of the treble clef?",
+            "options": ["A", "B", "C", "D"],
+            "correctAnswer": "F"
+          },
+          {
+            "questionID": 2,
+            "question": "How many beats does a whole note have?",
+            "options": ["1", "2", "3", "4"],
+            "correctAnswer": "4"
+          }
+        ]
+      },
+      {
+        "quizID": 2,
+        "lessonID": 2,
+        "questions": [
+          {
+            "questionID": 3,
+            "question": "What does 'Allegro' mean in music?",
+            "options": ["Slow", "Moderate", "Fast", "Very Slow"],
+            "correctAnswer": "Fast"
+          }
+        ]
+      }
+    ]
+  }
+  
