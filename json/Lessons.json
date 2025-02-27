@@ -36,6 +36,60 @@
         "estimatedTime": 30,
         "isCompleted": false
       }
+    ],
+
+    "quizzes": [
+      {
+        "quizID": 1,
+        "lessonID": 1,
+        "questions": [
+          {
+            "questionID": 1,
+            "question": "What is the note on the first space of the treble clef?",
+            "options": ["A", "B", "C", "D"],
+            "correctAnswer": "F"
+          },
+          {
+            "questionID": 2,
+            "question": "How many beats does a whole note have?",
+            "options": ["1", "2", "3", "4"],
+            "correctAnswer": "4"
+          }
+        ]
+      },
+      {
+        "quizID": 2,
+        "lessonID": 2,
+        "questions": [
+          {
+            "questionID": 3,
+            "question": "What does 'Allegro' mean in music?",
+            "options": ["Slow", "Moderate", "Fast", "Very Slow"],
+            "correctAnswer": "Fast"
+          }
+        ]
+      }
+    ],
+
+    "flashcards":
+    [
+        {
+            "_comment": "I ai generated these questions because I know pretty much nothing about music",
+            
+            "questions": 
+            {
+                "1": "What is a major scale?",
+                "2": "What is a minor chord?",
+                "3": "What does 'fortissimo' mean?"
+            },
+
+            "answers": 
+            {
+                "1": "A diatonic scale with a specific pattern of whole and half steps.",
+                "2": "A chord that has a root, minor third, and perfect fifth.",
+                "3": "It means to play very loudly."
+            }
+        }
     ]
   }
   
